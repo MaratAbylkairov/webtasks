@@ -1,0 +1,13 @@
+table, td ,th,tr{
+	border: 1px solid black;
+	border-collapse:collapse;
+}
+th{
+	font-size: 30px;
+}
+img{
+	width: 500px;
+}
+body{
+	background-color: grey;
+}
